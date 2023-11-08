@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "C64_Datasette_Connector")(type "KiCad")(uri "${KIPRJMOD}/C64_Datasette_Connector/C64_Datasette_Connector.pretty")(options "")(descr ""))
+)
